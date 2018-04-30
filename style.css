@@ -1,0 +1,31 @@
+body{
+	background-color:white;
+        margin: auto;
+        width : 800px;
+}
+h1{
+	text-align:center;
+        color : #FF4500;
+	border-bottom: 1px solid #E63062;
+}
+h2{
+	color : #19FF00;
+        border-bottom: 1px solid green;
+        margin-left: 1em;
+}
+h3{
+        margin-left: 2em;
+}
+p{
+        margin-left: 3em;
+}
+ul{
+        margin-left: 2em;
+}
+article{
+	border : 1px solid #E63062;
+        margin: 0.2em 0.2em;
+}
+.qcm{
+        font-style: italic;
+}
